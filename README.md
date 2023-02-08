@@ -27,4 +27,4 @@ body - {}
 
 4. get/http://localhost:8000/friendRequests/harshit12
 
-5. http://localhost:8000/suggestions/harshit12
+5. get/http://localhost:8000/suggestions/harshit12
