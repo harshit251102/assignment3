@@ -8,3 +8,4 @@ userRouter.get('/friendRequests/:userA',getRequests);
 userRouter.get('/friends/:userA',getFriends);
 userRouter.get('/suggestions/:userA',getSuggestions);
 module.exports = userRouter;
+//comment
